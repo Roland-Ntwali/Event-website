@@ -1,4 +1,4 @@
-# Capstone-project-1
+# Event website
 <a name="readme-top"></a>
 
 
@@ -53,6 +53,8 @@
 
 - [Capstone project one summary](https://www.loom.com/share/27d5791619d349139e37326d55670ca2)
 
+[Event-website](https://roland-ntwali.github.io/Event-website/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -68,8 +70,11 @@ In order to run this project you need: Internet
 
 ### Setup
 
-Clone this repository to your desired folder: Clone the project or download the files to your local environment.
+git clone https://github.com/Roland-Ntwali/Event-website.git
 
+cd Event-website.git
+
+npm install
 
 ### Install
 
