@@ -8,7 +8,7 @@ body {
 }
 
 .head {
-  background-image: url(/images/mobile-home.png);
+  background-image: url(./images/mobile-home.png);
   background-size: cover;
 }
 

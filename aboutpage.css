@@ -6,7 +6,7 @@ body {
 }
 
 .head {
-  background-image: url(/images/mobile-home.png);
+  background-image: url(./images/mobile-home.png);
   background-size: cover;
 }
 
@@ -212,7 +212,7 @@ body {
 }
 
 .image-1 {
-  background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(/images/Exh-1.jpg);
+  background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(./images/Exh-1.jpg);
   mix-blend-mode: multiply;
   backdrop-filter: blur(20px);
   background-size: cover;
@@ -248,7 +248,7 @@ body {
 }
 
 .image-2 {
-  background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(/images/Exh-2.jpg);
+  background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(./images/Exh-2.jpg);
   mix-blend-mode: multiply;
   backdrop-filter: blur(20px);
   background-size: cover;
@@ -259,13 +259,13 @@ body {
 }
 
 .image-2:hover {
-  background-image: url(/images/Exh-2.jpg);
+  background-image: url(./images/Exh-2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .image-2:active {
-  background-image: url(/images/Exh-1.jpg);
+  background-image: url(./images/Exh-1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -547,7 +547,7 @@ body {
   }
 
   .image-1 {
-    background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(/images/Exh-1.jpg);
+    background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(./images/Exh-1.jpg);
     mix-blend-mode: multiply;
     backdrop-filter: blur(20px);
     background-size: cover;
@@ -558,7 +558,7 @@ body {
   }
 
   .image-2 {
-    background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(/images/Exh-2.jpg);
+    background-image: linear-gradient(180deg, rgba(182, 175, 175, 0), rgba(138, 52, 52, 0.56) 0), url(./images/Exh-2.jpg);
     mix-blend-mode: multiply;
     backdrop-filter: blur(20px);
     background-size: cover;
