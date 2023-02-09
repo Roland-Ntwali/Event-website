@@ -584,6 +584,7 @@ body {
     height: 200px;
     border-radius: 50%;
   }
+
   .footer {
     display: flex;
     flex-direction: row;
@@ -591,7 +592,8 @@ body {
     padding: 10px;
     gap: 67px;
     background-color: #686868;
-    }
+  }
+
   .footer-img {
     width: 90px;
     height: auto;
