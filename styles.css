@@ -349,8 +349,10 @@ body {
 .footer {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   padding: 10px;
+  background-color: #686868;
+  gap: 40px;
 }
 
 .footer-img {
@@ -361,7 +363,7 @@ body {
 
 .footer-para {
   font-size: 16px;
-  color: #272a31;
+  color: #fff;
 }
 
 @media (min-width: 768px) {
@@ -660,8 +662,10 @@ body {
   .footer {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     padding: 10px;
+    gap: 67px;
+    background-color: #686868;
   }
 
   .footer-img {
@@ -672,6 +676,6 @@ body {
 
   .footer-para {
     font-size: 19px;
-    color: #272a31;
+    color: #fff;
   }
 }
