@@ -405,6 +405,26 @@ body {
     padding-right: 70px;
   }
 
+  .button {
+    width: 247px;
+    background-color: #ff450000;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border: none;
+    text-decoration: underline;
+  }
+
+  .button a {
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+    color: #fff;
+    text-decoration: underline;
+  }
+
   .navigation {
     padding: 0;
     display: flex;
@@ -427,6 +447,7 @@ body {
     position: unset;
     background-color: #fff;
   }
+
   .navigation.active a {
     text-decoration: none;
     font-size: 18px;
@@ -578,26 +599,6 @@ body {
     padding: 8px;
     text-align: center;
     font-size: 18px;
-  }
-
-  .button {
-    width: 247px;
-    background-color: #ff450000;
-    height: 65px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
-    border: none;
-    text-decoration: underline;
-  }
-
-  .button a {
-    font-size: 20px;
-    font-weight: 400;
-    border: none;
-    color: #fff;
-    text-decoration: underline;
   }
 
   .fs-title {
