@@ -427,6 +427,12 @@ body {
     position: unset;
     background-color: #fff;
   }
+  .navigation.active a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #272a31;
+  }
 
   .logo {
     display: block;
