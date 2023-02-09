@@ -22,7 +22,7 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+
 
 
 # 📖 [Event-website] <a name="about-project"></a>
@@ -51,7 +51,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Roland-Ntwali's capstone project](https://roland-ntwali.github.io/Capstone-project-1/)
+- [Roland-Ntwali's capstone project](https://roland-ntwali.github.io/Event-website/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,11 +88,17 @@ To run : Use test commands
 
 ### Deployment
 
-[event-websites](https://roland-ntwali.github.io/Capstone-project-1/)
+[event-websites](https://roland-ntwali.github.io/Event-website/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Video
+
+[Describing-page](https://www.loom.com/share/27d5791619d349139e37326d55670ca2)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
