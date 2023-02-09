@@ -51,7 +51,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Roland-Ntwali's capstone project](https://www.loom.com/share/27d5791619d349139e37326d55670ca2)
+- [Capstone project one summary](https://www.loom.com/share/27d5791619d349139e37326d55670ca2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
