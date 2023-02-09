@@ -22,7 +22,7 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
-
+- [📝 License](#license)
 
 
 # 📖 [Event-website] <a name="about-project"></a>
@@ -35,7 +35,7 @@
 
  - HTML
  - CSS
- -JavaScript
+ - JavaScript
 
 
 ### Key Features <a name="key-features"></a>
@@ -51,7 +51,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Roland-Ntwali's capstone project](https://roland-ntwali.github.io/Event-website/)
+- [Roland-Ntwali's capstone project](https://www.loom.com/share/27d5791619d349139e37326d55670ca2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +73,7 @@ Clone this repository to your desired folder: Clone the project or download the 
 
 ### Install
 
-Install this project with: You have run the installation commands.
+Install this project with: npm installation commands.
 
 
 ### Usage
@@ -88,17 +88,11 @@ To run : Use test commands
 
 ### Deployment
 
-[event-websites](https://roland-ntwali.github.io/Event-website/)
+[Event-website](https://roland-ntwali.github.io/Event-website/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Video
-
-[Describing-page](https://www.loom.com/share/27d5791619d349139e37326d55670ca2)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -147,7 +141,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Have a great time!
+> Design made by (https://www.behance.net/adagio07)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,3 +162,9 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./license.txt) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
